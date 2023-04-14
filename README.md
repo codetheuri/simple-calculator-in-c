@@ -7,9 +7,9 @@ To make the program more robust, we added additional error checking and handling
 Additionally, we added a loop to the program that allows the user to continue using the calculator or exit the program. After displaying the result, the program prompts the user to enter 'Y' or 'N' to continue or exit, respectively.
 ![erro2](https://user-images.githubusercontent.com/116286199/231975860-d2ffc059-227b-431f-819d-9852d9bd2842.png)
 
-##Usage
+## Usage
 
-###To use the calculator, follow these steps:
+### To use the calculator, follow these steps:
 
     Open the command line or terminal.
     Navigate to the directory containing the program files.
@@ -19,9 +19,9 @@ Additionally, we added a loop to the program that allows the user to continue us
 
 The program will then perform the arithmetic operation and display the result. If an error is detected (e.g. invalid operator or division by zero), the program will prompt the user to enter a valid input. After displaying the result, the program will prompt the user to enter 'Y' or 'N' to continue or exit, respectively.
 
-##Contributing
+## Contributing
 
 If you would like to contribute to this project, feel free to submit a pull request or open an issue on GitHub. We welcome any and all feedback and contributions.
 
-##Acknowledgments
+## Acknowledgments
 This program was created as a learning exercise for C programming.
