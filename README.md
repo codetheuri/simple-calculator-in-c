@@ -13,8 +13,8 @@ Additionally, we added a loop to the program that allows the user to continue us
 
     Open the command line or terminal.
     Navigate to the directory containing the program files.
-    Compile the program by entering the following command: gcc calculator.c -o calculator
-    Run the program by entering the following command: ./calculator
+    Compile the program by entering the following command: 'gcc calculator.c -o calculator'
+    Run the program by entering the following command: './calculator'
     Follow the on-screen instructions to enter two numbers and an operator.
 
 The program will then perform the arithmetic operation and display the result. If an error is detected (e.g. invalid operator or division by zero), the program will prompt the user to enter a valid input. After displaying the result, the program will prompt the user to enter 'Y' or 'N' to continue or exit, respectively.
